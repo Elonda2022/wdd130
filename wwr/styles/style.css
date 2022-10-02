@@ -1,6 +1,13 @@
-body {
-    max-width: 1600px;
+#background {
+    height: 725px;
 }
-div { 
-
+body{
+    background-color: #fcfbfb;
+}
+header {
+    background-color: rgba(20,30,13,0.7);
+}
+nav a:hover {
+    background-color: black;
+}
 }
