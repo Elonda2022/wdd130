@@ -31,6 +31,6 @@ main p {
     text-align: center;
 }
 a:hover{
-    background-color: white; /* surbillance sur le titre*/
+    background-color: white; /* the link have hovers*/
     color: steelblue;
 }
