@@ -10,3 +10,6 @@ a {
 * {
     border: 2px solid blue;
 }
+body {
+    text-align: center;
+}
