@@ -1,9 +1,19 @@
 img {
     width: 25%;
-}
-* {
-    border: 2px aqua;
+    display:block;
+    margin: 0 auto;
 }
 body{
-    background-color: blueviolet;
+    background-color: pink;
+}
+main {
+    width: 25%;
+    margin: 50px auto;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
 }
