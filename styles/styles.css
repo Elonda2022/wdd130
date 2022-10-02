@@ -17,6 +17,9 @@ nav, footer, p {
     width: 80%;
     text-align: center;
     margin: 0 auto;
+    background-color: steelblue;
+    color:white;
+    padding: 10px;
 }
 main p {
     width: 80%;
