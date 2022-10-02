@@ -1,3 +1,6 @@
-<body>
-    <div id="background: ></div>"
-</body>
+body {
+    background-color: blueviolet;
+}
+main p, main h1{
+    text-align: center;
+}
