@@ -10,10 +10,14 @@ main {
     width: 25%;
     margin: 50px auto;
 }
-h1{
+h1, h2{
     text-align: center;
     color: white;
 }
-h2{
+p{
+    text-align: center;
+    color: white;
+}
+h3, h5{
     text-align: center;
 }
