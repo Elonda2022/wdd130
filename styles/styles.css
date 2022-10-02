@@ -13,7 +13,7 @@ a {
 h1{
     text-align: center;
 }
-nav, footer, p {
+nav, footer {
     width: 80%;
     text-align: center;
     margin: 0 auto;
@@ -21,8 +21,16 @@ nav, footer, p {
     color:white;
     padding: 10px;
 }
+footer p {
+    font-size: 20px;
+    margin: 20px auto;
+}
 main p {
     width: 80%;
     margin: 50px auto;
     text-align: center;
+}
+a:hover{
+    background-color: white; /* surbillance sur le titre*/
+    color: steelblue;
 }
