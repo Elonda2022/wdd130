@@ -9,13 +9,17 @@ p{
 a {
     font-size: 1.5em;
 }
-* {
-    border: 2px solid blue;
-}
 
 h1{
     text-align: center;
 }
-nav, footer{
+nav, footer, p {
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+main p {
+    width: 80%;
+    margin: 50px auto;
     text-align: center;
 }
