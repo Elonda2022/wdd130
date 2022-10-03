@@ -1,3 +1,5 @@
+
+
 #background {
     height: 725px;
 }
@@ -11,18 +13,22 @@ nav a:hover {
     background-color: black;
     color: #d9c2a3;
 }
-.icon{
-    width: 80px;
-}
+  
 nav a {
     text-align: center;
     color: #fcfbfb;
     text-decoration: none;
 }
-footer p{
+footer {
     font-size: 1.2em;
+    background-color: rgba(20,30,13,0.7);
+
 }
 
 footer p a:hover{
     text-decoration: underline;
+}
+main, section, img, p {
+    margin: 0 auto;
+    align-items: center;
 }
