@@ -1,7 +1,9 @@
-content{
-    max-width: 100%;
+
+.img{
+    background: black;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
-#wife-card{
-    border: 10 solid bisque;
-}
-.card-img{}
