@@ -1,9 +1,9 @@
 
-.img{
-    background: black;
+.img {
     height: 500px;
-    display: flex;
     justify-content: center;
     align-items: center;
-
+    display: inline;
+    display: block;
+    margin: 0 auto 0 auto;
 }
