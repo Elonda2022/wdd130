@@ -1,3 +1,7 @@
-.content{
+content{
     max-width: 100%;
 }
+#wife-card{
+    border: 10 solid bisque;
+}
+.card-img{}
