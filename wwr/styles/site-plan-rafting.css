@@ -120,7 +120,7 @@ nav a:hover {
   background-color: var(--nav-hover-background-color);
 }
 .sitemap {
-  display: grid;
+  display: var(--accent1-color);
   justify-content: center;
 
   grid-template-columns: repeat(6, 15%);
