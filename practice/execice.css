@@ -5,7 +5,7 @@
     font-size: 1.5em;
     line-height: 1.5em;
 }
-#active{
+#active {
     background-color: white;
-    color: steelblue;
+    color: rgb(180, 12, 12);
 }
