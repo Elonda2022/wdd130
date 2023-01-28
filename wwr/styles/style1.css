@@ -2,7 +2,7 @@
     max-width: 1600px;
     margin: 0 auto;
 }
-nav a {
+nav a:hover {
     text-align: center;
 }
 #hero-msg h1, #hero-msg h4 {
@@ -13,4 +13,32 @@ text-align: center;
 }
 main section {
     text-align: center ;
+}
+#background {
+    height: 725px;
+}
+body {
+    background-color: #fcfbfb;
+}
+header {
+    background-color: rgba(20,30,13,.7);
+}
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}
+h4 {
+    color: aqua;
+}
+.book:hover, .join:hover {
+    color: azure;
+}
+.msg h2 {
+    color: aquamarine;
+}
+.msg p {
+    color: red;
+}
+footer a:hover {
+    color: aqua;
 }
