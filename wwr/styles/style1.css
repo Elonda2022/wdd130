@@ -27,6 +27,9 @@ header {
 a#logo_link img.logo {
     width: 90px;
 }
+#hero #hero-box img#hero-img {
+    width: 100%;
+}
 nav a:hover {
     background-color: black;
     color: #d9c2a3;
