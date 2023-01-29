@@ -30,6 +30,10 @@ a#logo_link img.logo {
 #hero #hero-box img#hero-img {
     width: 100%;
 }
+#hero-msg h1.home-title {
+    font-weight: bold;
+    text-align: center;
+}
 nav a:hover {
     background-color: black;
     color: #d9c2a3;
