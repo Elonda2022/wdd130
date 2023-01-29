@@ -3,7 +3,8 @@
     margin: 0 auto;
 }
 nav a:hover {
-    text-align: center;
+    background-color: black;
+    color: #d9c2a3;
 }
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
@@ -33,10 +34,6 @@ a#logo_link img.logo {
 #hero-msg h1.home-title {
     font-weight: bold;
     text-align: center;
-}
-nav a:hover {
-    background-color: black;
-    color: #d9c2a3;
 }
 h4 {
     color: aqua;
