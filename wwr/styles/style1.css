@@ -32,6 +32,7 @@ h4 {
 }
 .book:hover, .join:hover {
     color: azure;
+    background-color: aqua;
 }
 .msg h2 {
     color: aquamarine;
@@ -41,4 +42,8 @@ h4 {
 }
 footer a:hover {
     color: aqua;
+}
+.logo_link {
+    width: 200;
+    height: 200;
 }
