@@ -55,8 +55,8 @@ a#logo_link img.logo {
 }
 .msg p {
     color: rgb(255, 255, 255);
-    /* padding-left: 60px; */
-    font-size: .8em;
+    padding: 50px;
+    font-size: 1.2em;
 }
 #logo_link {
     width: 80px;
@@ -72,6 +72,8 @@ section.msg a.join, .button-box a.book {
 }
 footer {
     background-color: #575e56;
+    padding-left: 15px;
+    margin-top: 15px;
 }
 footer p, footer p a {
     color: #d9c2a3;
@@ -104,5 +106,5 @@ main section img {
 }
 .msg {
     background-color: #6f7364;
-    line-height: 1.5em;
+    line-height: 2.5em;
 }
