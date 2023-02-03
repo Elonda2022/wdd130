@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Passions+Conflict&display=swap');
+
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -5,6 +8,7 @@
 nav a {
     color: white;
     text-decoration: none;
+    padding: 35px;
 }
 nav a:hover {
     color: #d9c2a3;
@@ -21,6 +25,8 @@ main section {
 #background {
     height: 725px;
     background-color: #d9c2a3;
+    border: 40px solid rgb(255, 255, 255);
+    padding: 50px;
 }
 body {
     background-color: #f7f0f0;
@@ -33,10 +39,13 @@ a#logo_link img.logo {
 }
 #hero #hero-box img#hero-img {
     width: 100%;
+    margin-bottom: 15px;
 }
 #hero-msg h1.home-title {
     font-weight: bold;
     text-align: center;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
 } 
 .book:hover, .join:hover {
     color: rgb(0, 0, 0);
@@ -48,6 +57,7 @@ a#logo_link img.logo {
 .msg p {
     color: rgb(255, 255, 255);
     /* padding-left: 60px; */
+    font-size: .8em;
 }
 #logo_link {
     width: 80px;
@@ -75,4 +85,25 @@ footer p a:hover {
 }
 section.rivers-card h2 {
     text-transform: capitalize;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+main section img {
+    box-sizing: border-box;
+    border: 10px;
+    border-radius: 5px;
+}
+.msg {
+    background-color: #6f7364;
+    line-height: 1.5em;
 }
