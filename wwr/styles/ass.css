@@ -16,6 +16,15 @@ left: 50px;
     
     /*flex-wrap: wrap;
     display: flex;*/
-
+}
+.name{
+    font-size: 100pt;
+    color: red;
+    z-index: 1;
+}
+.txt{
+    font-size: 100pt;
+    color: red;
+    z-index: 1;
 
 }
