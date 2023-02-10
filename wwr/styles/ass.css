@@ -1,0 +1,21 @@
+#cherries_card, .cher {
+float: left;
+position: relative;
+left: 50px;
+
+}
+.background {
+    float: right;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    /*border: 3px solid gray;*/
+    background-color: gray;
+    top: 80px;
+    right: 250px;
+    
+    /*flex-wrap: wrap;
+    display: flex;*/
+
+
+}
